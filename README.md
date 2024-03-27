@@ -26,13 +26,13 @@ Criação de um site para que o cliente saiba e conheça missão ,visão e seus 
 * Requisitos não funcionais:
 * 1:Segurança: O sistema deve garantir a segurança dos dados sensíveis dos clientes e da empresa.
 * 2: desempenho: O sistema deve ser capaz de lidar com um grande numero de consultorias e usuários simultaneamente, mantendo um desempenho satisfatório.
-* 3:
-* 
-* 
+* 3: interface: O sistema deve ser intuitivo e de fácil utilização, com uma interface amigável que permita aos usuários navegar e encontrar o que precisa.
   
 **5. Tecnologias utilizadas**
+HTML
 
 **6. Cronograma para desenvolvimento**
+
 
 
 ## Sobre a solução
