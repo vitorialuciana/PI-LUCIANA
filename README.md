@@ -19,6 +19,7 @@ Criação de um site para que o cliente saiba e conheça missão ,visão e seus 
 * 3: cadastro de consultores: nome, cpf, telefone endereço e matricula.
 * 4: Acompanhamento das propostas: acompanhar o andamento das propostas em execução, incluindo status, prazos e responsáveis.
 * 5: Geração de relatórios: O sistema deve gerar relatórios sobre as comissões e pagamentos dos consultores da empresa realizada durante a data da geração das propostas, faturamento por período, clientes atendidos.
+* 6: Comunicação com o cliente: será feito através do contato registrado no seu cadastro ao acessar o site
 * 
 * 
 * Requisitos não funcionais
