@@ -18,6 +18,9 @@ Criação de um site para que o cliente saiba e conheça missão ,visão e seus 
 * 2: Agendamento de consultorias: os clientes pode agendar data e horário e qual o atendimento que necessita.
 * 3: cadastro de consultores: nome, cpf, telefone endereço e matricula.
 * 4: Acompanhamento das propostas: acompanhar o andamento das propostas em execução, incluindo status, prazos e responsáveis.
+* 5: Geração de relatórios: O sistema deve gerar relatórios sobre as comissões e pagamentos dos consultores da empresa realizada durante a data da geração das propostas, faturamento por período, clientes atendidos.
+* 
+* 
 * Requisitos não funcionais
   
 **5. Tecnologias utilizadas**
