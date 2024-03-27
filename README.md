@@ -16,6 +16,7 @@ Criação de um site para que o cliente saiba e conheça missão ,visão e seus 
 * Requisitos funcionais
 * 1 cadastro de clientes: o cliente precisa cadastrar os seus dados como : nome,telefone e email para que a empresa possa entrar em contato e saber o que o cliente deseja no momento.
 * 2: Agendamento de consultorias: os clientes pode agendar data e horário e qual o atendimento que necessita.
+* 3: cadastro de consultores: nome, cpf, telefone endereço e matricula
 * Requisitos não funcionais
   
 **5. Tecnologias utilizadas**
