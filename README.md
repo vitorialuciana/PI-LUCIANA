@@ -24,6 +24,8 @@ Criação de um site para que o cliente saiba e conheça missão ,visão e seus 
 * 8: feedback do cliente: pode dizer se gostou ou não do site respondendo sim ou não.
    
 * Requisitos não funcionais:
+* 1:Segurança: O sistema deve garantir a segurança dos dados sensíveis dos clientes e da empresa.
+* 
 * 
   
 **5. Tecnologias utilizadas**
