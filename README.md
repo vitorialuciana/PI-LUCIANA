@@ -21,10 +21,10 @@ Criação de um site para que o cliente saiba e conheça missão ,visão e seus 
 * 5: Geração de relatórios: O sistema deve gerar relatórios sobre as comissões e pagamentos dos consultores da empresa realizada durante a data da geração das propostas, faturamento por período, clientes atendidos.
 * 6: Comunicação com o cliente: será feito através do contato registrado no seu cadastro ao acessar o site.
 * 7: Controle de acesso: somente consultores autorizados poderá ter acesso ao sistema, além do seu cadastro na empresa terá o login onde somente consultor responsável tera a senha.
+* 8: feedback do cliente: pode dizer se gostou ou não do site respondendo sim ou não.
+   
+* Requisitos não funcionais:
 * 
-* 
-* 
-* Requisitos não funcionais
   
 **5. Tecnologias utilizadas**
 
