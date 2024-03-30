@@ -32,14 +32,34 @@ Criação de um site para que o cliente saiba e conheça missão ,visão e seus 
 HTML
 
 **6. Cronograma para desenvolvimento**
+1: semana:
+Definir os objetivos do projeto
+Identificar os requisitos do cliente
+Estabelecer o escopo do projeto;
+2: semnana:Criar esboços de layout
+Desenvolver wireframes para páginas principais;
+Selecionar cores, fontes e elementos visuais;
+3: semana:Desenvolvimento Front-end (4 semanas)
+Estruturar o projeto em HTML5;
+4: Testes (1 semana)
+Realizar testes de compatibilidade em diferentes navegadores
+Testar a usabilidade em dispositivos móveis
+Corrigir bugs e problemas de compatibilidade;
+5: Entrega e Revisão (1 semana)
+Apresentar o projeto final ao cliente
+Realizar ajustes finais baseados no feedback do cliente
 
 
 
 ## Sobre a solução
 **1. Pré-requisitos para instalação da solução**
+Visual Studio Code
 
 **2. Instalação do projeto**
+Clonar o Repositório, explorar a estrutura do projeto e visualizar o projeto no navegador:
 
 **3. Credenciais para teste**
+ não haverá necessidade de credenciais para teste.
 
 **4. Informações sobre o colaborador**
+nome, foto, contato para wats.
